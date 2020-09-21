@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="insertButtonText">Insert</string>
+    <string name="removeButtonText">Remove</string>
+    <string name="selectText">Select Platform</string>
+    <string name="invalid_position">Invalid Position</string>
+    <string name="insertPosition">Position</string>
+</resources>
